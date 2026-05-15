@@ -1,0 +1,9 @@
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Favorite Language:", favoritelanguage);const name = "louis";
+const age = 25;
+const favoritelanguage = "German";
+
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Favorite Language:", favoritelanguage);
